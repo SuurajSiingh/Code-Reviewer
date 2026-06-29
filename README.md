@@ -23,4 +23,3 @@ A smart web app that analyzes your code in real-time and gives AI-powered feedba
 
 ## Author
 Made by [SuurajSiingh](https://github.com/SuurajSiingh)
-
